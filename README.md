@@ -99,9 +99,8 @@ This project is open-source. Feel free to modify and adapt it to suit your resea
 
 For further information or questions, feel free to contact:
 
-- **Team Name**: [NOBODY]
-- **Email**: [ariseonceagain@gmail.com]
-- **GitHub**: [https://github.com/onceagainarise/Seismic_detection_across_solar_system]
+- **Email**: [megx0108@gmail.com]
+- **GitHub**: [https://github.com/meg-x08/Seismic_event_detection_across_solar_system_using_STA-LTA]
 
 ---
 
