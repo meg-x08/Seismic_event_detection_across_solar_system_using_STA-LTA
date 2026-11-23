@@ -1,0 +1,14 @@
+# Core
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.6
+joblib>=1.2
+
+# Machine learning
+scikit-learn>=1.2
+xgboost>=1.7
+lightgbm>=3.3
+
+# Tests
+pytest>=7.0

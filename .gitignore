@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# Large data and generated outputs (re-create them with the scripts)
+data/
+outputs/
+space_apps_2024_seismic_detection/
+*.zip
